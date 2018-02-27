@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="angular5-example" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;typings;vendor;dist">
+  <component name="PublishConfigData" autoUpload="Always" serverName="angular5-example" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;typings;vendor;dist">
     <serverData>
       <paths name="angular5-example">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
